@@ -1,4 +1,4 @@
-Start-Sleep -Seconds 10
+Start-Sleep -Seconds 5
 
 Start-Process "C:\Users\kaopu\Desktop\MinimizeToTray\MinimizeToTray.exe" -WorkingDirectory "C:\Users\kaopu\Desktop\MinimizeToTray"
 Start-Sleep -Seconds 3
