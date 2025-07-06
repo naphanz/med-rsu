@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File "C:\Users\kaopu\Desktop\vck35.ps1"
